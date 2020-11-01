@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Phone</string>
+    <string name="textview">Phone Number :</string>
+    <string name="button">Call</string>
+    <string name="btn_sms">Open SMS Message</string>
+    <string name="phone_number_here">Phone Number Here</string>
+    <string name="phone_number">Phone Number : </string>
+    <string name="btn_getCont">Get Contact</string>
+    <string name="send_sms">Send SMS Message</string>
+    <string name="get_some">Display Some Contacts</string>
+    <string name="send_auto_sms_message">Send Auto SMS Message</string>
+    <string name="back">Back</string>
+    <string-array name="spn">
+        <item></item>
+        <item>أنا مشغول ، سوف اتصل بك لاحقًا</item>
+        <item>أنا في الطريق</item>
+        <item>عذرًا ، أنا مرهق لا استطيع التحدث الآن</item>
+        <item>أهلًا بك ، مرحبًا</item>
+        <item></item>
+    </string-array>
+</resources>
